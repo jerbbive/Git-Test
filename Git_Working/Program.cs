@@ -10,6 +10,10 @@ namespace Git_Working
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Push any key to exit.");
+            Console.ReadKey();
         }
     }
 }
